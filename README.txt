@@ -1,4 +1,4 @@
-Project-based learning (using AI) implementation to understand CNN architecture logic
+Project-based learning (Code generated with AI assistance) implementation to understand CNN architecture logic
 === HƯỚNG DẪN CHẠY DỰ ÁN NHẬN DIỆN CHỮ SỐ (MNIST) ===
 
 1. CÀI ĐẶT MÔI TRƯỜNG:
